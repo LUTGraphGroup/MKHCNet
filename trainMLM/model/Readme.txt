@@ -1,0 +1,1 @@
+Please put the pre-trained model (keptlongmer/Bio_ClinicalBERT) in the directory.
